@@ -1,4 +1,4 @@
-# Vera's Portfolio
+# Calculator App
 
 #### By Molly Donegan, Vera Weikel
 
