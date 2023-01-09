@@ -2,7 +2,7 @@
 
 #### By Molly Donegan, Vera Weikel
 
-#### A Personal Portfolio
+#### A Personal Calculator
 
 ## Technologies Used
 
@@ -10,10 +10,10 @@
 * CSS 
 
 ## Description
-Personal Portfolio Page. 
+Calculator 
  
 ## Goals
-* Highlight personal projects
+* Calculator operations
 
 ## Setup/Installation Requirements
 
